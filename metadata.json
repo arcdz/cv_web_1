@@ -1,0 +1,6 @@
+{
+  "name": "Responsive Resume Template",
+  "description": "A crisp, mobile-first responsive web resume built with Tailwind CSS, based on a clean modern split-layout design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
